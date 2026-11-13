@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-text-humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1794347786492,
+      "ownerHandle": "sonnenberglauramarie-afk"
+    },
+    "@ivangdavila/writing": {
+      "version": "1.1.2",
+      "installedAt": 1794347793356,
+      "ownerHandle": "ivangdavila"
+    },
+    "@samber/copywriting-prose-creator": {
+      "version": "1.2.0",
+      "installedAt": 1794347799925,
+      "ownerHandle": "samber"
+    },
+    "@mwclaw/anti-ai-slop-writing-gate": {
+      "version": "1.0.0",
+      "installedAt": 1794347805518,
+      "ownerHandle": "mwclaw"
+    },
+    "@athola/nm-scribe-slop-detector": {
+      "version": "1.9.19",
+      "installedAt": 1794347812347,
+      "ownerHandle": "athola"
+    },
+    "@wpank/clear-writing": {
+      "version": "0.1.0",
+      "installedAt": 1794347818940,
+      "ownerHandle": "wpank"
+    },
+    "@futurizerush/antislop": {
+      "version": "0.1.0",
+      "installedAt": 1794347824381,
+      "ownerHandle": "futurizerush"
+    }
+  }
+}
